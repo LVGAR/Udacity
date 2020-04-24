@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+	<link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+	<div class="container">
+	
+		<h1 class="title">Totoro</h1>
+		<!--- random google image-->
+		<img class="img"src="totoro.jpg" 
+		alt="Totoro">
+
+	<div class="innerbox">
+			<!-- your favorite animal's interesting fact goes here -->
+			<p class="fact">Totoro is a forest spirit that lives in the camphor tree in a small village </p>
+	<!--Source:https://ghibli.fandom.com/wiki/Totoro-->
+	<ul class="listinfo">
+	<!-- your favorite animal's list items go here -->
+		<li><span>Species</span>: Big Totoro</li>
+		<li><span>Appearance</span>: Grey fur and beige belly</li>
+		<li><span>Average Lifespan</span>:Immortal</li>
+		<li><span>First Appearance</span>: My Neighbor Totoro</li>
+			</ul>
+			<!-- your favorite animal's description goes here -->
+			<p>Big Totoro is the King of the Forest. He has grey fur and beige belly with gray arrows on his chest. He has pointy easrs and large paws.Some assume, that Totoro is based off Japanese folk creature Koropokkuru. </p>
+		</div>
+	</div>
+</body>
+</html>
