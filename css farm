@@ -1,0 +1,36 @@
+
+.container{
+    width: 310px;
+    border:1px solid black;
+    box-shadow:6px 6px 1px 0px rgb(225, 173, 230);
+    padding-right:.3em;
+    padding-left: .8em;
+    padding-bottom: .6em;
+    
+}
+.title{
+    font-size: 16pt;
+    color black;
+
+}
+.innerbox{
+    width: 283px;
+    border:2px solid rgb(225, 173, 230);
+    padding-right: .5em;
+    padding-left:.5em;
+}
+img{
+    width: 300px
+    
+}
+
+.fact{
+    font-style:italic;
+}
+.listinfo{
+    list-style-type: none;
+    padding:0;
+    margin: 0;
+
+}
+span {font-weight: bold;}
